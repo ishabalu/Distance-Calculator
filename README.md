@@ -22,3 +22,7 @@ Below listed are the Python Modules used:
 4.subprocess: You can start a process in Python using the Popen function call, which is very handy when you want to run a system. Here, we used it in order to access the GPS location of our device to obtain the current location
 5.tkinter: This module was used to create the GUI of the application.
 6.PIL: used to put the background image in our GUI   
+
+--------------------------------
+[cloud.docx](https://github.com/ishabalu/Distance-Calculator/files/4918184/cloud.docx)
+
