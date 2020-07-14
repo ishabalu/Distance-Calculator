@@ -24,5 +24,5 @@ Below listed are the Python Modules used:
 6.PIL: used to put the background image in our GUI   
 
 --------------------------------
-[cloud.docx](https://github.com/ishabalu/Distance-Calculator/files/4918184/cloud.docx)
+
 
