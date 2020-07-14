@@ -24,5 +24,7 @@ Below listed are the Python Modules used:
 6.PIL: used to put the background image in our GUI   
 
 --------------------------------
+![image (1)](https://user-images.githubusercontent.com/57403205/87416510-6ecb6a80-c5ec-11ea-81e0-7091e95c6a1a.png)
+![image](https://user-images.githubusercontent.com/57403205/87416519-712dc480-c5ec-11ea-9761-da6da3a8066d.png)
 
 
